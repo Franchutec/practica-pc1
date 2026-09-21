@@ -20,5 +20,8 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.8",
     "vite": "^8.3.0"
+  },
+  "allowScripts": {
+    "fsevents@2.3.3": true
   }
 }
